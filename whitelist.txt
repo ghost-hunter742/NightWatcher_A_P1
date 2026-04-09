@@ -1,0 +1,10 @@
+code.exe
+antigravity.exe
+antigravity
+python.exe
+python
+python3.exe
+python3
+pip.exe
+npm.exe
+node.exe
