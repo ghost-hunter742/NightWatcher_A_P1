@@ -1,4 +1,4 @@
-# EDR Antigravity Simulation Lab
+# EDR  Simulation Lab
 
 This repository contains a full simulation environment for an AI-powered Endpoint Detection and Response (EDR) system designed to detect, quarantine, and remediate ransomware attacks in real-time.
 
